@@ -11,6 +11,17 @@ How do food prices vary across different locations and over time in Kenya and ca
 - Identify locations with differences in average food prices.
 - Build a machine learning model to predict average food prices.
 - Identify the features that contribute most to the model's predictions.
+- ## Visualizations
+### Average Beans and Maize Prices Over Time
+![Average Beans and Maize Prices Over Time](visuals/average_beans_maize_prices_over_time.png)
+### Average Bean Prices by County
+![Average Bean Prices by County](visuals/average_bean_prices_by_county.png)
+### Average Maize Prices by County
+![Average Maize Prices by County](visuals/average_maize_prices_by_county.png)
+### Top 10 Feature Importance
+![Top 10 Feature Importance](visuals/top_10_feature_importance.png)
+### Actual vs Predicted Food Prices
+![Actual vs Predicted Food Prices](visuals/actual_vs_predicted_food_prices.png)
 ## Dataset
 The dataset contains food price observations from different markets and administrative areas in Kenya.
 Key variables used in the analysis include:
